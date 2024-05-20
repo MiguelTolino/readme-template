@@ -47,7 +47,7 @@ cp README_TEMPLATE.md /path/to/your/project
 ```
 
 4. **Customize the template**
-   Open the copied README template (README_TEMPLATE.md) and fill in the sections with your project's details.
+   Open the copied [README template](README_TEMPLATE.md) and fill in the sections with your project's details.
 
 ## 🎮 Usage
 
@@ -97,9 +97,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or need further assistance, feel free to reach out to us:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Github: [MiguelTolino](https://github.com/MiguelTolino)
 
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [@migueltolino](https://www.linkedin.com/in/miguel-tolino/)
 
 Thank you for using the README Template Repository! We hope it helps you create informative READMEs for your projects.
 
