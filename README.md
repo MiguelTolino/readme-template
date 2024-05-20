@@ -9,13 +9,13 @@ The README Template Repository is designed to help you quickly set up a well-str
 ## 📋 Table of Contents
 
 - [Introduction](#-introduction)
-- [Features](#-features)
-- [Installation](#️-installation)
-- [Usage](#️-usage)
+- [Features](#✨-features)
+- [Installation](#️🛠️-installation)
+- [Usage](#️🎮-usage)
   - [Configuration](#configuration)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+- [Contributing](#🤝-contributing)
+- [License](#📜-license)
+- [Contact](#📞-contact)
 
 ## ✨ Features
 
