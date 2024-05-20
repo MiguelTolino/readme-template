@@ -1,6 +1,6 @@
 # 📝 README Template Repository
 
-Welcome to the README Template Repository! This repository provides you with a customizable README template that you can use for your projects. This README will guide you through everything you need to know to create a professional and informative README for your project.
+Welcome to the README Template Repository! This repository provides you with a customizable README template that you can use for your projects.
 
 ## 🚀 Introduction
 
